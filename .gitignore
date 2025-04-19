@@ -1,0 +1,22 @@
+### macOS ###
+*.DS_Store
+.AppleDouble
+.LSOverride
+
+
+node_modules
+
+# environnement et dossiers secrets
+.env
+.env.local
+.env.development
+.env.production
+
+secrets.jsonconfig.json
+
+# fichiers de base de données SQLite et de stockage
+*.sqlite
+*.sqlite3
+*.db
+
+
